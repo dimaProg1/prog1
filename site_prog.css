@@ -1,0 +1,28 @@
+﻿body {
+    background-color: rgba(20, 173, 84, 0.404);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 150px;
+    background-color: rgba(245, 155, 21, 0.692);
+    border-color: rgba(236, 52, 89, 0.212);
+    color: black;
+    font-size: larger;
+}
+#text {
+    color: rgba(73, 42, 7, 0.781);
+}    
+#dev {
+    color: rgb(14, 26, 5);
+}
